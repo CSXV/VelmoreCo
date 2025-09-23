@@ -4,8 +4,9 @@
 
 > this project is work in progress.
 
-- using .NET as back-end, with ASP.NET Core web API to make RESTful APIs.
-- using React for front end, React router v7 is used for page routing.
+- using .NET as back-end, with ASP.NET Core to make RESTful APIs.
+- using React + TypeScript as front end, React router v7 for page routing.
 - using React three fiber (R3F) to show jewelry 3D models in browser.
+- using PostgreSQL as database engine.
 
 ---
