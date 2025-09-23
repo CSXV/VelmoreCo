@@ -1,0 +1,24 @@
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/VelmoreAPI/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.deps.json
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/VelmoreAPI/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.dll
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/VelmoreAPI/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.pdb
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/VelmoreAPI/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.AssemblyReference.cache
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/VelmoreAPI/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/VelmoreAPI/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfoInputs.cache
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/VelmoreAPI/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfo.cs
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/VelmoreAPI/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.CoreCompileInputs.cache
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/VelmoreAPI/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.dll
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/VelmoreAPI/DataAccessLayer/obj/Debug/net8.0/refint/DataAccessLayer.dll
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/VelmoreAPI/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.pdb
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/VelmoreAPI/DataAccessLayer/obj/Debug/net8.0/ref/DataAccessLayer.dll
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.deps.json
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.dll
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.pdb
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.AssemblyReference.cache
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfoInputs.cache
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfo.cs
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.CoreCompileInputs.cache
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.dll
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/refint/DataAccessLayer.dll
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.pdb
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/ref/DataAccessLayer.dll

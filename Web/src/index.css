@@ -1,0 +1,154 @@
+@import "https://www.nerdfonts.com/assets/css/webfont.css";
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+html {
+  /* font-size: 62.5%; */
+  font-size: 100%;
+}
+
+/*------ colors ------*/
+:root {
+  --white: white;
+  --slate: #495057;
+  --graphite: #212522;
+  --black: black;
+}
+
+/*------ fonts ------*/
+:root {
+  /*font size*/
+  --text-sm: 0.833rem;
+  --text-base: 1rem;
+  --text-Paragraph: 1rem;
+  --text-h6: 1.2rem;
+  --text-h5: 1.44rem;
+  --text-h4: 1.728rem;
+  --text-h3: 2.074rem;
+  --text-h2: 2.488rem;
+  --text-h1: 2.986rem;
+
+  /*font weights*/
+  --font-weight-normal: 400;
+  --font-weight-bold: 700;
+
+  /*line hights*/
+  --line-hight-tight: 1.2;
+  --line-hight-normal: 1.5;
+
+  --letter-spacing-tight: -2;
+
+  --font-family: "Fancy Cut Pro", serif;
+  --font-family-fancy: "Cinzel Decorative", sans-serif;
+  --font-family-normal: "Brilliant Cut Pro Medium", sans-serif;
+  /* --font-family-normal: "Cormorant Garamond", sans-serif; */
+}
+
+body {
+  font-family: var(--font-family);
+  font-weight: var(--font-weight-normal);
+  line-height: var(--line-hight-normal);
+
+  color: var(--white);
+  background: var(--white);
+
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+
+  /* padding-top: 105px; */
+
+  /* color: var(--slate); */
+  /* background-color: var(--main); */
+  /* background: rgba(56, 121, 127, 1); */
+  /* background: radial-gradient( */
+  /*   at center, */
+  /*   rgba(56, 121, 127, 1), */
+  /*   rgba(7, 37, 42, 1) */
+  /* ); */
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/*------ items ------*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  letter-spacing: var(--letter-spacing-tight);
+  font-family: var(--font-family-normal);
+  font-weight: var(--font-weight-bold);
+  line-height: var(--line-hight-tight);
+  color: var(--white);
+
+  /* color: var(--graphite); */
+}
+
+h1 {
+  font-size: var(--text-h1);
+}
+
+h2 {
+  font-size: var(--text-h2);
+}
+
+h3 {
+  font-size: var(--text-h3);
+}
+
+h4 {
+  font-size: var(--text-h4);
+}
+
+h5 {
+  font-size: var(--text-h5);
+}
+
+h6 {
+  font-size: var(--text-h6);
+}
+
+p,
+a,
+small {
+  line-height: var(--line-hight-normal);
+  font-family: var(--font-family);
+}
+
+p {
+  font-size: var(--text-Paragraph);
+}
+
+/*anchor*/
+a {
+  text-decoration: none;
+  font-size: var(--text-base);
+  display: inline-block;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  /* color: var(--graphite); */
+  color: var(--white);
+}
+
+small {
+  font-size: var(--text-sm);
+}
+
+span {
+  display: inline-block;
+}
+
+ul {
+  list-style: none;
+}
