@@ -22,3 +22,4 @@
 /mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/refint/DataAccessLayer.dll
 /mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.pdb
 /mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/ref/DataAccessLayer.dll
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.sourcelink.json

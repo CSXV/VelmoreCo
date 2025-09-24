@@ -12,7 +12,7 @@ export default function Cart() {
 
   useEffect(() => {
     // Step 1: Get the products array from localStorage
-    const storedProducts = localStorage.getItem('cart');
+    const storedProducts = localStorage.getItem("cart");
 
     if (storedProducts) {
       try {
@@ -26,13 +26,15 @@ export default function Cart() {
         // Step 3: Update state
         setTotal(totalPrice);
       } catch (error) {
-        console.error('Error parsing products from localStorage', error);
+        console.error("Error parsing products from localStorage", error);
       }
     }
   }, []);
 
   function removeFromCart(productId: number) {
-    const updatedCart = cart.filter((item: CartProduct) => item.id !== productId);
+    const updatedCart = cart.filter(
+      (item: CartProduct) => item.id !== productId,
+    );
 
     setCart(updatedCart);
     localStorage.setItem("cart", JSON.stringify(updatedCart));
@@ -64,7 +66,10 @@ export default function Cart() {
 
                 <div className="cart-price">
                   <div>
-                    <p>Final price:<br /> <i>${p.price.toFixed(2)}</i></p>
+                    <p>
+                      Final price:
+                      <br /> <i>${p.price.toFixed(2)}</i>
+                    </p>
                     <p>Quantity: {p.quantity}</p>
                   </div>
 
@@ -81,10 +86,11 @@ export default function Cart() {
           })}
 
           <div className="a-cart">
-            <h3>Total: <span>${total.toFixed(2)}</span></h3>
+            <h3>
+              Total: <span>${total.toFixed(2)}</span>
+            </h3>
             <button className="glass button">Checkout</button>
           </div>
-
         </div>
       )}
     </div>

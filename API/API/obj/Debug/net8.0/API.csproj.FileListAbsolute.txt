@@ -76,3 +76,4 @@
 /mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/API/obj/Debug/net8.0/API.pdb
 /mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/API/obj/Debug/net8.0/API.genruntimeconfig.cache
 /mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/API/obj/Debug/net8.0/ref/API.dll
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/API/obj/Debug/net8.0/API.sourcelink.json

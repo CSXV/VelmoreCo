@@ -14,8 +14,8 @@ import Home from "./Components/Home";
 import About from "./Components/About";
 import NotFound from "./Components/NotFound";
 import Contact from "./Components/Contact";
-import Product, { loader as allReviewsLoader } from "./Components/Product";
-import Shop, { loader as allProductsLoader } from "./Components/Shop";
+import Product, { loader as allReviewsLoader } from "./Components/Shop/Product";
+import Shop, { loader as allProductsLoader } from "./Components/Shop/Shop";
 import Register, {
   action as registerAction,
 } from "./Components/Accounts/Register";

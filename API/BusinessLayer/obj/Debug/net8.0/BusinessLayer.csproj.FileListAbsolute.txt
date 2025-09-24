@@ -28,3 +28,4 @@
 /mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/BusinessLayer/obj/Debug/net8.0/refint/BusinessLayer.dll
 /mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/BusinessLayer/obj/Debug/net8.0/BusinessLayer.pdb
 /mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/BusinessLayer/obj/Debug/net8.0/ref/BusinessLayer.dll
+/mnt/MalikDisc/MALIK_DISC/MX/Coding/React/Projects/Velmoré & Co/API/BusinessLayer/obj/Debug/net8.0/BusinessLayer.sourcelink.json
