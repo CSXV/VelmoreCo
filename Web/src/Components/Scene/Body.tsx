@@ -5,7 +5,7 @@ export default function Jbody({ geometry, material }: any) {
       receiveShadow
       castShadow
       material={material}
-    // material-color={"white"}
+      // material-color={"white"}
     >
       {
         <meshPhysicalMaterial
