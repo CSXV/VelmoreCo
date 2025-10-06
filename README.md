@@ -9,6 +9,8 @@ Velmoré & Co - a high-end jewelry eCommerce web page.
 - Using React three fiber (R3F) to show jewelry 3D models in browser.
 - Using PostgreSQL as database engine.
 
+https://github.com/user-attachments/assets/510466f4-5be6-4eb3-bfcf-e5d7551cb8f5
+
 ---
 > [!NOTE]
 > More screenshots in pics folder.
