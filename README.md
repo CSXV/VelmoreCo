@@ -1,7 +1,7 @@
 # Velmoré & Co
 Velmoré & Co - a high-end jewelry eCommerce web page.
 
-> [!NOTE]
+> [!IMPORTANT]
 > This project is work in progress.
 
 - Using .NET as back-end, with ASP.NET Core to make RESTful APIs.
@@ -9,6 +9,10 @@ Velmoré & Co - a high-end jewelry eCommerce web page.
 - Using React three fiber (R3F) to show jewelry 3D models in browser.
 - Using PostgreSQL as database engine.
 
-![screenshot](pics/screenshot.png)
+---
+> [!NOTE]
+> More screenshots in pics folder.
+
+![Screenshot](pics/screenshot.png)
 
 ---
